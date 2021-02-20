@@ -14,7 +14,7 @@ Importa un modulo e imprime dos saludos
 bloque de comandos
 ```
 
-## Autor o autores
+## Autor
 
 
 ex. Matias Nahuel Rios  
