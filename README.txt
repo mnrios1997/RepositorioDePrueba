@@ -20,3 +20,6 @@ bloque de comandos
 ex. Matias Nahuel Rios  
 ex. [@mnrios1997]
 
+##
+
+Se debe ejecutar el archivo miprograma.py
